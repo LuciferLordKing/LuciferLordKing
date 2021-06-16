@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=cobalt)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuciferLordKing&repo=github-readme-stats&theme=cobalt)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuciferLordKing&show_icons=true&theme=jolly)
 
