@@ -9,9 +9,7 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuciferLordKing&repo=my-first-webpage&theme=cobalt)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XAJEXUNmP5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<div><a href="bar">*foo*</a></div>
+<div><iframe width="560" height="315" src="https://www.youtube.com/embed/XAJEXUNmP5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <!--
 **LuciferLordKing/LuciferLordKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
