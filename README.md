@@ -5,8 +5,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferLordKing&layout=compact&theme=algolia)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuciferLordKing&repo=instagram-image-downloader&theme=cobalt)
-
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuciferLordKing&repo=simple-database-viewer&theme=cobalt)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuciferLordKing&repo=my-first-webpage&theme=cobalt)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuciferLordKing&repo=instagram-image-downloader&theme=cobalt)
 
 <!--
 **LuciferLordKing/LuciferLordKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
