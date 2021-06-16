@@ -1,6 +1,8 @@
 ### Hi there 👋
-🌱 I’m currently learning **C** language
-📫 How to reach me:
+## 🌱 I’m currently learning **C** language
+## 📫 How to reach me:
+
+T: +44(0)7365493427
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuciferLordKing&show_icons=true&langs_count=10&theme=jolly)
 
