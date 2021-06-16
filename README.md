@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferLordKing&layout=compact&theme=cobalt)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuciferLordKing)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)
 
 <!--
 **LuciferLordKing/LuciferLordKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
