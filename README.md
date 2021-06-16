@@ -1,12 +1,13 @@
 ### Hi there 👋
-## 🌱 I’m currently learning **C** language
-## 📫 How to reach me:
-
-T: +44(0)7365493427
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuciferLordKing&show_icons=true&langs_count=10&theme=jolly)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferLordKing&layout=compact&theme=algolia)
+
+## 🌱 I’m currently learning **C** language
+## 📫 How to reach me:
+
+T: +44(0)7365493427
 
 ## ⬇︎ Somes of my projects is here ⬇︎
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuciferLordKing&repo=instagram-image-downloader&theme=cobalt)](https://github.com/LuciferLordKing/instagram-image-downloader)
