@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=cobalt)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuciferLordKing&show_icons=true&theme=jolly)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
 
 <!--
 **LuciferLordKing/LuciferLordKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
