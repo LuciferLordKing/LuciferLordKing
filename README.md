@@ -5,7 +5,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferLordKing&layout=compact&theme=algolia)
 
 ## ⬇︎ Somes of my projects is here ⬇︎
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuciferLordKing&repo=instagram-image-downloader&theme=cobalt)](https://github.com/LuciferLordKing/instagram-image-downloader)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuciferLordKing&repo=simple-database-viewer&theme=cobalt)](https://github.com/LuciferLordKing/simple-database-viewer)
 
