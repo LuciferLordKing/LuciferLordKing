@@ -2,7 +2,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuciferLordKing&show_icons=true&langs_count=10&theme=jolly)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferLordKing&layout=compact&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferLordKing&layout=compact&theme=algolia)
 
 <!--
 **LuciferLordKing/LuciferLordKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
