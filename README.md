@@ -8,6 +8,7 @@
 ## 📫 How to reach me:
 
 - T: +44(0)7365493427
+- E: df866@york.ac.uk
 
 ## ⬇︎ Somes of my projects is here ⬇︎
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuciferLordKing&repo=instagram-image-downloader&theme=cobalt)](https://github.com/LuciferLordKing/instagram-image-downloader)
