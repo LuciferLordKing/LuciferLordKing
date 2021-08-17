@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferLordKing&layout=compact&theme=algolia)
 
-## 🌱 I’m currently learning **C** language
+## 🌱 I’m currently learning **C** and **C#**
 ## 📫 How to reach me:
 
 - T: +44(0)7365493427
