@@ -14,7 +14,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Skataus-code-craft&repo=sha256-cracker&theme=cobalt)](https://github.com/Skataus-code-craft/sha256-cracker)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuciferLordKing&repo=simple-database-viewer&theme=cobalt)](https://github.com/LuciferLordKing/simple-database-viewer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuciferLordKing&repo=my-first-webpage&theme=cobalt)](https://github.com/LuciferLordKing/my-first-webpage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Skataus-code-craft&repo=Personal-Page&theme=cobalt)](https://github.com/Skataus-code-craft/Personal-Page)
 
 <!--
 **LuciferLordKing/LuciferLordKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
