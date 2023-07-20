@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=VERY+BASED+PROFILE)](https://git.io/typing-svg)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuciferLordKing&show_icons=true&langs_count=10&theme=jolly)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferLordKing&layout=compact&theme=algolia)
